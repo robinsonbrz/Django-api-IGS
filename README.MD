@@ -25,9 +25,9 @@ Django REST framework
     </table>
   </div>
 
-Visite meu WebSite em Django [https://www.enedino.com.br](https://www.enedino.com.br)
+Visit my WebSite implemented in Django [https://www.enedino.com.br](https://www.enedino.com.br)
 
-Portfólio com diversas apps implementadas inclusive FastAPI com MongoDB
+Portfolio with several apps implemented including FastAPI with MongoDB
 
   <br>
 
@@ -37,7 +37,7 @@ ___
 ___
 Data can be managed through Admin panel with an admin password 
 
-http://127.0.0.1:8000/admin/
+Django Admin panel[http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 
 <a  href="https://www.linkedin.com/in/robinsonbrz/">
@@ -60,23 +60,23 @@ All employees endpoint [http://127.0.0.1:8000/employee/](http://127.0.0.1:8000/e
 ______
 
 
-## Utilização do programa 
+## Seting up and usage
 
-Antes de executar o programa é necessário criar o ambiente virtual Python venv
+Before executing the program its necessary to create a virtual environment
 
 ```python
 python -m venv venv
 ```
-Ativar o ambiente virtual
+Activating venv
 ```python
 .\venv\Scripts\activate
 ```
-Instalar as dependências do projeto
+Installing project dependencies
 
 ```python
 pip instal -r requirements.txt
 ```
-Agora podemos executar o programa
+Run the program
 ```python
 python manage.py runserver
 ```
@@ -90,7 +90,7 @@ python manage.py runserver
 
 
 
-<h1 align="center"> Informações e contato </h1> 
+<h1 align="center"> Contact and information</h1> 
   <div align="center">
     <table>
         </tr>
